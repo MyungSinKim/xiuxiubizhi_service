@@ -1,7 +1,5 @@
 package com.xiaour.xiuxiubizhi.controller;
 
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -27,7 +25,7 @@ public class PortalCtrl {
 
     @Autowired
     private RedisService redisService;
-    
+
     @Autowired
     private ImageService imageService;
 
@@ -39,10 +37,10 @@ public class PortalCtrl {
     }
 
     @RequestMapping(value="/indexTopSlider")
-    public String indexTopSlider(Integer pageNum){
+    public String indexTopSlider(){
     	String data=redisService.get(CacheKeys.INDEX_TOP_SLIDER);
-    	List dataList= JsonUtil.readJson2Array(data ,Map.class);
-        return JsonResult.successWithData(data);
+    	List<Map> dataList= JsonUtil.readJson2Array(data ,Map.class);
+        return data;
     }
     
     @RequestMapping(value="/addIndexTopSlider")

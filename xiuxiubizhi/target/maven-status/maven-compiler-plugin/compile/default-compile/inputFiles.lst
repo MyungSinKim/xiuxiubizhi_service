@@ -1,0 +1,16 @@
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/Application.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/entity/Image.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/utils/JsonUtil.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/entity/PageDto.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/constants/CacheKeys.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/service/ImageService.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/controller/PortalCtrl.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/service/impl/ImageServiceImpl.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/controller/QiniuUploadCtrl.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/service/impl/RedisServiceImpl.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/service/RedisService.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/mapper/ImageMapper.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/utils/ImageCheck.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/utils/DateUtil.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/utils/JsonResult.java
+/2.workspace/xiuxiubizhi_service/xiuxiubizhi/src/main/java/com/xiaour/xiuxiubizhi/utils/DeviceInfoUtil.java
